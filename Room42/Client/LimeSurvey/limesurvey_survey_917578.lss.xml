@@ -1,0 +1,4200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>355</DBVersion>
+ <languages>
+  <language>fr</language>
+  <language>en</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Communication Manager]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[System Administrator]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[HR Manager]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Delay - But will it buy time?]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Confirm - The truth is the best option. Always.]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Deny - The impact on our shareholders might kill the company!]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[167]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Stay?]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[167]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Prepare to leave?]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Ignore - ...]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Responsable de la communication]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Administrateur système]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Gestionnaire des ressources humaines]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Nier - L'impact sur nos actionnaires pourrait tuer la société!]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Confirmer - La vérité est la meilleure option. Toujours.]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Retarder - Mais comment gagner du temps?]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Ignorer - ...]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[167]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Rester?]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[167]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Se preparer à partir?]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[1 - Amazing!]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[1 - Magnifique!]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[2]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[2]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[3]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[3]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[4]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[4]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[5 - Ouch!]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[5 - Ouch!]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <conditions>
+  <fields>
+   <fieldname>cid</fieldname>
+   <fieldname>qid</fieldname>
+   <fieldname>cqid</fieldname>
+   <fieldname>cfieldname</fieldname>
+   <fieldname>method</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>scenario</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <cid><![CDATA[126]]></cid>
+    <qid><![CDATA[29]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[4]]></cid>
+    <qid><![CDATA[32]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[76]]></cid>
+    <qid><![CDATA[35]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A3]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[125]]></cid>
+    <qid><![CDATA[174]]></qid>
+    <cqid><![CDATA[172]]></cqid>
+    <cfieldname><![CDATA[+917578X34X172SQ001]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[105]]></cid>
+    <qid><![CDATA[92]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A3]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[123]]></cid>
+    <qid><![CDATA[132]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[106]]></cid>
+    <qid><![CDATA[97]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[122]]></cid>
+    <qid><![CDATA[130]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[108]]></cid>
+    <qid><![CDATA[98]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[114]]></cid>
+    <qid><![CDATA[134]]></qid>
+    <cqid><![CDATA[128]]></cqid>
+    <cfieldname><![CDATA[+917578X23X128SQ001]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[121]]></cid>
+    <qid><![CDATA[125]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A3]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[117]]></cid>
+    <qid><![CDATA[136]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A3]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[118]]></cid>
+    <qid><![CDATA[138]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[119]]></cid>
+    <qid><![CDATA[140]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[917578X6X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+  </rows>
+ </conditions>
+ <defaultvalues>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>sqid</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>specialtype</fieldname>
+   <fieldname>defaultvalue</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[29]]></qid>
+    <scale_id><![CDATA[0]]></scale_id>
+    <sqid><![CDATA[0]]></sqid>
+    <language><![CDATA[en]]></language>
+    <specialtype/>
+    <defaultvalue><![CDATA[Communication Guru]]></defaultvalue>
+   </row>
+   <row>
+    <qid><![CDATA[32]]></qid>
+    <scale_id><![CDATA[0]]></scale_id>
+    <sqid><![CDATA[0]]></sqid>
+    <language><![CDATA[en]]></language>
+    <specialtype/>
+    <defaultvalue><![CDATA[Information system gate keeper]]></defaultvalue>
+   </row>
+   <row>
+    <qid><![CDATA[35]]></qid>
+    <scale_id><![CDATA[0]]></scale_id>
+    <sqid><![CDATA[0]]></sqid>
+    <language><![CDATA[en]]></language>
+    <specialtype/>
+    <defaultvalue><![CDATA[Team Builder]]></defaultvalue>
+   </row>
+   <row>
+    <qid><![CDATA[29]]></qid>
+    <scale_id><![CDATA[0]]></scale_id>
+    <sqid><![CDATA[0]]></sqid>
+    <language><![CDATA[fr]]></language>
+    <specialtype/>
+    <defaultvalue><![CDATA[Gourou de la communication]]></defaultvalue>
+   </row>
+   <row>
+    <qid><![CDATA[35]]></qid>
+    <scale_id><![CDATA[0]]></scale_id>
+    <sqid><![CDATA[0]]></sqid>
+    <language><![CDATA[fr]]></language>
+    <specialtype/>
+    <defaultvalue><![CDATA[Faiseur d'équipe]]></defaultvalue>
+   </row>
+   <row>
+    <qid><![CDATA[32]]></qid>
+    <scale_id><![CDATA[0]]></scale_id>
+    <sqid><![CDATA[0]]></sqid>
+    <language><![CDATA[fr]]></language>
+    <specialtype/>
+    <defaultvalue><![CDATA[Gardien du système d'information]]></defaultvalue>
+   </row>
+  </rows>
+ </defaultvalues>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[6]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Select your role]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description><![CDATA[You are now required to select your role within ToyCo]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[6]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Sélectionnez votre role]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description><![CDATA[Vous devez choisir un role chez ToyCo]]></description>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[16]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[History of ToyCo!]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description><![CDATA[A small video to introduce you to ToyCo. This is your company.]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[16]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[L'histoire de ToyCo!]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description><![CDATA[<strong>Une petite vidéo pour vous présenter ToyCo. Ceci est votre entreprise.</strong>]]></description>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[17]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Room42 - Experience FIC]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description><![CDATA[<strong>Notre experience est sur le point de débuter...</strong>]]></description>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[17]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Room42 - FIC Experience]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description><![CDATA[<strong>The experience is about to start.</strong>]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[18]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Work as usual!]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description><![CDATA[Time to go to work!]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[18]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Au travail!]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description><![CDATA[Il est l'heure de travailler!]]></description>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[19]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Databreach]]></group_name>
+    <group_order><![CDATA[7]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[19]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Violation de données]]></group_name>
+    <group_order><![CDATA[7]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[20]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Interview]]></group_name>
+    <group_order><![CDATA[8]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[20]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Interview]]></group_name>
+    <group_order><![CDATA[8]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[21]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Information]]></group_name>
+    <group_order><![CDATA[6]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[21]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Information]]></group_name>
+    <group_order><![CDATA[6]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[22]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Reaction]]></group_name>
+    <group_order><![CDATA[9]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[22]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Réaction]]></group_name>
+    <group_order><![CDATA[9]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[23]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Denial]]></group_name>
+    <group_order><![CDATA[11]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[23]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Le déni]]></group_name>
+    <group_order><![CDATA[11]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[24]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Fallout management]]></group_name>
+    <group_order><![CDATA[12]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[24]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Gestion des retombées]]></group_name>
+    <group_order><![CDATA[12]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[25]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Things are about to go nuclear]]></group_name>
+    <group_order><![CDATA[10]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[25]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Les choses ne vont pas s'améliorer]]></group_name>
+    <group_order><![CDATA[10]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[26]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Decision to act]]></group_name>
+    <group_order><![CDATA[13]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[26]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Décision et réaction]]></group_name>
+    <group_order><![CDATA[13]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[27]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Appropriate actions]]></group_name>
+    <group_order><![CDATA[14]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[27]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Les mesures appropriées]]></group_name>
+    <group_order><![CDATA[14]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[28]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Media Bomb!]]></group_name>
+    <group_order><![CDATA[15]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[28]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[La presse incontrolable!]]></group_name>
+    <group_order><![CDATA[15]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[29]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Bargaining]]></group_name>
+    <group_order><![CDATA[16]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[29]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Marchandage]]></group_name>
+    <group_order><![CDATA[16]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[30]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Here comes the DPA]]></group_name>
+    <group_order><![CDATA[17]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[30]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Et arrivent les agences de protection des données...]]></group_name>
+    <group_order><![CDATA[17]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[31]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Crisis Management]]></group_name>
+    <group_order><![CDATA[18]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[31]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Gestion de crise]]></group_name>
+    <group_order><![CDATA[18]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[32]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Depression]]></group_name>
+    <group_order><![CDATA[19]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[32]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[La déprime]]></group_name>
+    <group_order><![CDATA[19]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[33]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[What next?]]></group_name>
+    <group_order><![CDATA[20]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[33]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Et maintenant?]]></group_name>
+    <group_order><![CDATA[20]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[34]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Acceptance]]></group_name>
+    <group_order><![CDATA[21]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[34]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[L'acceptation]]></group_name>
+    <group_order><![CDATA[21]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[35]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Personal evaluation]]></group_name>
+    <group_order><![CDATA[5]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[35]]></gid>
+    <sid><![CDATA[917578]]></sid>
+    <group_name><![CDATA[Évaluation personnelle]]></group_name>
+    <group_order><![CDATA[5]]></group_order>
+    <description/>
+    <language><![CDATA[fr]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[P02]]></title>
+    <question><![CDATA[What is your Role?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[P02]]></title>
+    <question><![CDATA[Quel est votre Role?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[29]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[P02COM]]></title>
+    <question><![CDATA[<p><strong>You have chosen to be the <u>Communication Manager</u>.</strong></p>
+
+<p>The Communications Manager supports, develops and delivers a coherent and effective external marketing strategy for the organization. Hopefully...</p>
+
+<p><em>Please enter a nickname for internal game needs.</em></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[29]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[P02COM]]></title>
+    <question><![CDATA[<p><strong>Vous avez choisi d'être le responsable de la communication.</strong></p>
+
+<p>Le responsable des communications soutient, développe et fournit une stratégie de marketing externe cohérente et efficace pour l'organisation.</p>
+
+<p><strong>Veuillez entrer un pseudo pour les besoins du jeu interne.</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[32]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[P02IT]]></title>
+    <question><![CDATA[<p><strong>You have chosen to be the <u>System Administrator</u>.</strong></p>
+
+<p>A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially multi-user computers, such as servers. Don't worry if you have no suitable knowledge for the role, this is a reflection of real life after all!</p>
+
+<p><em>Please enter a nickname for internal game needs.</em></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[32]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[P02IT]]></title>
+    <question><![CDATA[<p><strong>Vous avez choisi d'être l'administrateur système.</strong></p>
+
+<p>Un administrateur système est une personne responsable de la maintenance, de la configuration et du fonctionnement fiable des systèmes informatiques. en particulier les ordinateurs multi-utilisateurs, tels que les serveurs. Ne vous inquiétez pas si vous n'avez pas de connaissances suffisantes pour le rôle, c'est le reflet de la vie réelle après tout!</p>
+
+<p><strong>Veuillez entrer un pseudo pour vos besoins internes.</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[35]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[P02HR]]></title>
+    <question><![CDATA[<p><strong>You have chosen to be the <u>HR Manager</u>.</strong></p>
+
+<p>You will ensure that the organization is able to achieve success through people.</p>
+
+<p>As ToyCo is a relatively small organisation, you also act as the personal assistant of the CEO.</p>
+
+<p><em>Please enter a nickname for internal game needs.</em></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[35]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[P02HR]]></title>
+    <question><![CDATA[<p><strong>Vous avez choisi d’être le responsable des ressources humaines.</strong></p>
+
+<p>Vous veillerez à ce que l'organisation réussisse grâce aux personnes.</p>
+
+<p>ToyCo étant une organisation relativement petite, vous agissez également en tant qu'assistant personnel du PDG.</p>
+
+<p><strong>Veuillez entrer un pseudo pour vos besoins internes.</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[84]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[16]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P03]]></title>
+    <question><![CDATA[<p><strong>Video Time.</strong></p>
+
+<p><strong>The History of ToyCo</strong></p>
+
+<p>The Game Master has a video for you. After having watched it, please validate the checkbox and click on next, only when told to do so.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Welcome my friends. Welcome to my world. You are about to embark on a journey to the everyday reality of the cyber age. You all are employees of an almost 100 year old company. ToyCo, a family business, which was created in 1932 by producing it’s original star product: the Teddy plush. A real success, it allowed the firm to go worldwide. But the world changes. As production costs got higher, new actors entered this market. The traditional family values upon which the firm has stood has allowed it to keep the business running. The structure of the company evolved though, and in 1976 it went public while keeping family control over the capital. Now the toys that attracted kids some decades ago unfortunately are not here to stay. As technology impacted the toy market, ToyCo almost died. 3 years ago, a new shareholder acquired the last remaining shares from the original holders and invested in the production of a new range of connected toys. They were the Cyber Teddy. Cuddly and easy to use, these connected toys rely on the cloud. Of course, the budget for this development was tight. Focus was made on the essential functionalities. But it worked. Combining the historical attraction to the brand with modern technology was apparently the move the company needed to reinvent itself and redefine the toy maker market for the digital age. So welcome my friends. Now start working. Your future is bright. Please look at your role and profile - you will be playing this person. Have fun."</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[84]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[16]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P03]]></title>
+    <question><![CDATA[<p><strong>Temps vidéo.</strong></p>
+
+<p>Le maître de jeu a une vidéo pour vous. Après l'avoir regardé, veuillez valider la case à cocher et cliquez sur Suivant uniquement lorsque cela vous est demandé.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Bienvenue mes amis. Bienvenue dans mon monde. Vous allez entreprendre un voyage dans la réalité quotidienne du cyber-âge. Vous êtes tous des employés d'une entreprise vieille de presque 100 ans: ToyCo, une entreprise familiale créée en 1932 qui produisait son produit vedette original: la peluche Teddy, un véritable succès.</p>
+
+<p>Elle aura permis à la société de s’implanter dans le monde entier. Mais le monde a changé, et alors que les coûts de production ont augmenté, de nouveaux acteurs ont fait leur entrée sur ce marché.</p>
+
+<p>La structure de la société a toutefois évolué et elle est devenue publique tout en maintenant sur le capital un contrôle familial .</p>
+
+<p>Mais aujourd'hui, les jouets qui attiraient les enfants il y a quelques décennies ne sont malheureusement plus là pour rester. ToyCo a failli s'éteindre sur le marché du jouet.</p>
+
+<p>Il y a 3 ans, un nouvel actionnaire a acquis les dernières actions restantes des détenteurs initiaux et a investi dans la production d'une nouvelle gamme de jouets connectés: le Cyber ​​Teddy. Attendrissants et simples d'usage, ces jouets connectés s'appuient sur le Cloud. Bien entendu, le budget alloué à ce développement était limité. L'accent a été mis sur les fonctionnalités essentielles. Mais cela a fonctionné. La combinaison de l'attrait historique de la marque et la technologie moderne était apparemment la dynamique que l'entreprise devait suivre pour se réinventer et redéfinir le marché des fabricants de jouets à l'ère numérique.</p>
+
+<p>Alors, bienvenue mes amis. Maintenant, commencez à travailler. Votre avenir est prometteur. S'il vous plaît, regardez votre rôle et votre profil - vous allez jouer cette personne. Amusez-vous."</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[90]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[17]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P01]]></title>
+    <question><![CDATA[<p><strong>Get ready!</strong></p>
+
+<p>The Game Master will introduce you to the game and rules. Please listen to them carefully.</p>
+
+<p><strong>Once the Game Master is done, and when told to do so, please check the "I am ready button" and hit NEXT.</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[90]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[17]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P01]]></title>
+    <question><![CDATA[<p><strong>Préparez-vous!</strong></p>
+
+<p>Le maître de jeu va vous présenter le jeu et ses règles. Merci de faire attention.</p>
+
+<p><strong>Une fois que le maître de jeu a terminé, et quand on vous dit de le faire, merci de valider le bouton « Je suis prêt » et d'appuyer sur SUIVANT.</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[92]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P04HR]]></title>
+    <question><![CDATA[<p><strong><a href="http://speedtyping.secin.lu/HR/EN/" target="_blank">Please click this sentence to start your daily work routine...</a></strong></p>
+
+<p><strong>Do not close this TAB...</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[92]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P04HR]]></title>
+    <question><![CDATA[<p><strong><a href="http://speedtyping.secin.lu/HR/FR/" target="_blank">S'il vous plaît, cliquez sur cette phrase pour commencer votre routine de travail ... </a></strong></p>
+
+<p><strong>Ne fermez pas cette tabulation ...</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[97]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P04COM]]></title>
+    <question><![CDATA[<p><strong><a href="http://speedtyping.secin.lu/COM/EN/" target="_blank">Please click this sentence to start your daily work routine...</a> </strong></p>
+
+<p><strong>Do not close this TAB...</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[97]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P04COM]]></title>
+    <question><![CDATA[<p><strong><a href="http://speedtyping.secin.lu/COM/FR/" target="_blank">S'il vous plaît, cliquez sur cette phrase pour commencer votre routine de travail ... </a></strong></p>
+
+<p><strong>Ne fermez pas cette tabulation ...</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[98]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P04IT]]></title>
+    <question><![CDATA[<p><strong><a href="http://speedtyping.secin.lu/IT/EN/" target="_blank">Please click this sentence to start your daily work routine...</a> </strong></p>
+
+<p><strong>Do not close this TAB...</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[98]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P04IT]]></title>
+    <question><![CDATA[<p><strong><a href="http://speedtyping.secin.lu/IT/FR/" target="_blank">S'il vous plaît, cliquez sur cette phrase pour commencer votre routine de travail ... </a></strong></p>
+
+<p><strong>Ne fermez pas cette tabulation ...</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[110]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[35]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[P04Errors]]></title>
+    <question><![CDATA[<strong>And more precisely, how many errors did you make when typing?</strong>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[110]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[35]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[P04Errors]]></title>
+    <question><![CDATA[<strong>Et plus précisément, combien d’erreurs avez-vous commises lors de la frappe?</strong>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[111]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P06]]></title>
+    <question><![CDATA[<p><strong>Presentation.</strong></p>
+
+<p>The Game Master has some things to tell you. When done, please validate the checkbox and click on next (only when told to do so).</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[111]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P06]]></title>
+    <question><![CDATA[<p><strong>Présentation.</strong></p>
+
+<p>Le maître de jeu a des choses à vous dire. Lorsqu'il aura terminé, merci de valider la case à cocher et cliquer sur suivant (uniquement lorsque cela vous est demandé)</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[121]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[20]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P07]]></title>
+    <question><![CDATA[<p><strong>Video Time.</strong></p>
+
+<p>The Game Master has a video for you. After having watched it, please validate the checkbox and click on next only when told to do so.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Good day. I am a reporter for the National Press Journal, and have a few questions regarding the recent hacking claim involving ToyCo. Thank you for contacting me as soon as possible. "</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[121]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[20]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P07]]></title>
+    <question><![CDATA[<p><strong>Temps vidéo.</strong></p>
+
+<p>Le maître de jeu a une vidéo pour vous. Après l'avoir regardé, veuillez valider la case à cocher et cliquez sur Suivant uniquement lorsque cela vous est demandé.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Bonjour. Je suis journaliste pour le National Press Journal et j'ai quelques questions à propos d'une infornmation sur une possible tentative de piratage informatique impliquant ToyCo. Merci de me contacter dès que possible."</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[123]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P05]]></title>
+    <question><![CDATA[<p><strong>Video Time.</strong></p>
+
+<p><strong>Breaking News!</strong></p>
+
+<p>The Game Master has a video for you. After having watched it, please validate the checkbox and click on next, only when told to do so.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"This is just in - It looks like it might be a not so Merry Christmas for one of the regions main employers, ToyCo. The so-called "Ethical Hacking Group" have released a statement on a webpage popular with hackers called Pastebin, alleging a major data breach involving ToyCo's flagship CyberTeddy range of Internet connected toys. The group claims that they have access to a database for the product and can see images and listen to audio - uploaded by kids. We have contacted ToyCo but recieved no comment from them at this time..."</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[123]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P05]]></title>
+    <question><![CDATA[<p><strong>Temps vidéo. </strong></p>
+
+<p><strong>Dernières nouvelles! Le maître de jeu a une vidéo pour vous.</strong></p>
+
+<p>Après celle-ci, veuillez valider la case à cocher et cliquer sur suivant, mais uniquement lorsque cela vous est demandé.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Dernières nouvelles - Il semble que ce ne soit peut-être pas un si joyeux Noël pour l'un des principaux employeurs de la région, ToyCo.</p>
+
+<p>Le soi-disant "Ethical Hacking Group" a publié une déclaration sur une page Web très prisée des hackers, Pastebin, faisant état d'une violation de données majeure impliquant la gamme phare de jouets connectés à Internet de ToyCo, le CyberTeddy.</p>
+
+<p>Ce groupe affirme avoir eu accès à une base de données pour le produit, dont des images et des enregistrements sonores conçus par les enfants. Nous avons contacté ToyCo, mais nous n'avons reçu aucun commentaire de leur part pour le moment..."</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[125]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P08HR]]></title>
+    <question><![CDATA[<p><strong>Small discussion.</strong></p>
+
+<p>There might be a timer on the wall... It could indicate something, or just be there to stress you.</p>
+
+<p> </p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>So, a quick decision has to be taken with respect to the situation but all the consequences need to be considered:</p>
+
+<ul>
+	<li>Delay, buy time but how will the shareholders, public and press react?</li>
+	<li>Deny, but what happens if the truth gets out. Will it damage the company and its reputation?</li>
+	<li>Confirm, begin damage limitation and hope to kill the story. Will it succeed or will it destroy the company?</li>
+	<li>The Ostrich strategy, bury your head in the sand, ignore it and hope it blows over.</li>
+</ul>
+
+<p> </p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[125]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P08HR]]></title>
+    <question><![CDATA[<p><strong>Petite discussion.</strong></p>
+
+<p>Il pourrait y avoir une minuterie sur le mur ... Cela pourrait indiquer quelque chose, ou simplement être là pour vous stresser.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>Une décision rapide doit être prise par rapport à la situation, mais toutes les conséquences se doivent d'être envisagées:</p>
+
+<ul>
+	<li>Gagner du temps, mais comment vont réagir les actionnaires, le public et la presse?</li>
+	<li>Nier, mais que se passe-t-il si la vérité est révélée? Cela va-t-il nuire à l'entreprise et à sa réputation?</li>
+	<li>Confirmez, et commencer à limiter les dégâts et espérez tuer l'histoire dans l'oeuf. Mais cela peutîl réussir ou au contraire nuire à l'entreprise?</li>
+	<li>Faire la stratégie de l'autruche, en enfouissant sa tête dans le sable, en ignorant l'information et espérer qu'elle se disparaisse.</li>
+</ul>
+
+<p> </p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[25]]></gid>
+    <type><![CDATA[!]]></type>
+    <title><![CDATA[P09]]></title>
+    <question><![CDATA[<p><strong>Let's vote!</strong></p>
+
+<p><strong>From a personal perspective, what would you choose?</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[127]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[25]]></gid>
+    <type><![CDATA[!]]></type>
+    <title><![CDATA[P09]]></title>
+    <question><![CDATA[<p><strong>Votons!</strong></p>
+
+<p><strong>Du point de vue personnel, que choisiriez-vous?</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[128]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P10]]></title>
+    <question><![CDATA[<p><strong>Video Time.</strong></p>
+
+<p><strong>Denial!</strong></p>
+
+<p>The Game Master has a video for you. After having watched it, please validate the checkbox and click on next, only when told to do so.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"I can categorically confirm that there has been NO, I repeat, NO data breach at ToyCo. As a traditional family company, for over 80 years, our primary concern is and has always been, the safety and privacy of our customers. This so-called news is just another example of a criminal hacker trying to become famous and spread fear, along with the collusion of the press in this FAKE NEWS."</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[128]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P10]]></title>
+    <question><![CDATA[<p><strong>Temps vidéo.</strong></p>
+
+<p><strong>Le déni!</strong></p>
+
+<p>Le maître de jeu a une vidéo pour vous. Après l'avoir regardé, veuillez valider la case à cocher et cliquer sur Suivant, mais uniquement lorsque cela vous est demandé.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Je peux confirmer catégoriquement qu'il n'y a pas eu de violation de données à ToyCo, et je le répète. En tant qu'entreprise familiale traditionnelle, notre principal souci est depuis toujours la sécurité et la protection de la vie privée de nos clients. Ces fausses nouvelles ne sont qu’une tentative d’un pirate informatique criminel qui essaie de se faire connaître en semant la peur avec une connivence de la presse à promouvoir une Intox. "</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[130]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P08IT]]></title>
+    <question><![CDATA[<p><strong>Small discussion.</strong></p>
+
+<p>There might be a timer on the wall... It could indicate something, or just be there to stress you.</p>
+
+<p> </p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>So, a quick decision has to be taken with respect to the situation but all the consequences need to be considered:</p>
+
+<ul>
+	<li>Delay, buy time but how will the shareholders, public and press react?</li>
+	<li>Deny, but what happens if the truth gets out. Will it damage the company and its reputation?</li>
+	<li>Confirm, begin damage limitation and hope to kill the story. Will it succeed or will it destroy the company?</li>
+	<li>The Ostrich strategy, bury your head in the sand, ignore it and hope it blows over.</li>
+</ul>
+
+<p>You do not want to delay as the CEO perviously criticised you for not taking responsibility and decisions consistent with your position. You are aware that there are issues with data management in the company and insisted in a meeting with the CEO that these needed to be addressed, however the CEO took the decision not to name a Data Protection Officer nor ensure compliance with the <span class="module__title__link">General Data Protection Regulation (GDPR) for finacial reasons, insisting that production of CyberTeddy was more important.</span></p>
+
+<p> </p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[130]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P08IT]]></title>
+    <question><![CDATA[<p><strong>Petite discussion.</strong></p>
+
+<p>Il pourrait y avoir une minuterie sur le mur ... Cela pourrait indiquer quelque chose, ou simplement être là pour vous stresser.</p>
+
+<p> </p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>Une décision rapide doit être prise par rapport à la situation, mais toutes les conséquences se doivent d'être envisagées:</p>
+
+<ul>
+	<li>Gagner du temps, mais comment vont réagir les actionnaires, le public et la presse?</li>
+	<li>Nier, mais que se passe-t-il si la vérité est révélée? Cela va-t-il nuire à l'entreprise et à sa réputation?</li>
+	<li>Confirmez, et commencer à limiter les dégâts et espérez tuer l'histoire dans l'oeuf. Mais cela peutîl réussir ou au contraire nuire à l'entreprise?</li>
+	<li>Faire la stratégie de l'autruche, en enfouissant sa tête dans le sable, en ignorant l'information et espérer qu'elle se disparaisse.</li>
+</ul>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[132]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P08COM]]></title>
+    <question><![CDATA[<p><strong>Small discussion.</strong></p>
+
+<p>There might be a timer on the wall... It could indicate something, or just be there to stress you.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>So, a quick decision has to be taken with respect to the situation but all the consequences need to be considered:</p>
+
+<ul>
+	<li>Delay, buy time but how will the shareholders, public and press react?</li>
+	<li>Deny, but what happens if the truth gets out. Will it damage the company and its reputation?</li>
+	<li>Confirm, begin damage limitation and hope to kill the story. Will it succeed or will it destroy the company?</li>
+</ul>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[132]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P08COM]]></title>
+    <question><![CDATA[<p><strong>Petite discussion.</strong></p>
+
+<p>Il pourrait y avoir une minuterie sur le mur ... Cela pourrait indiquer quelque chose, ou simplement être là pour vous stresser.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>Une décision rapide doit être prise par rapport à la situation, mais toutes les conséquences se doivent d'être envisagées:</p>
+
+<ul>
+	<li>Gagner du temps, mais comment vont réagir les actionnaires, le public et la presse?</li>
+	<li>Nier, mais que se passe-t-il si la vérité est révélée? Cela va-t-il nuire à l'entreprise et à sa réputation?</li>
+	<li>Confirmez, et commencer à limiter les dégâts et espérez tuer l'histoire dans l'oeuf. Mais cela peutîl réussir ou au contraire nuire à l'entreprise?</li>
+	<li>Faire la stratégie de l'autruche, en enfouissant sa tête dans le sable, en ignorant l'information et espérer qu'elle se disparaisse.</li>
+</ul>
+
+<p> </p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[134]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P11]]></title>
+    <question><![CDATA[<p><strong>Presentation.</strong></p>
+
+<p>The Game Master has some things to tell you. When done, please validate the checkbox and click on next (only when told to do so).</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X23X128SQ001.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[134]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P11]]></title>
+    <question><![CDATA[<p><strong>Présentation.</strong></p>
+
+<p>Le maître de jeu a des choses à vous dire. Lorsqu'il aura terminé, merci de valider la case à cocher et cliquer sur suivant (uniquement lorsque cela vous est demandé).</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X23X128SQ001.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[136]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P12HR]]></title>
+    <question><![CDATA[Discuss with your team. What should be done now?]]></question>
+    <preg/>
+    <help><![CDATA[<p><span style="color:#c0392b;"><strong>You have just received an e-mail from the CEO, sent right before they embarked on a plane to fly back.</strong></span></p>
+
+<p><span style="color:#c0392b;"><strong>"I'm boarding now, with journalists on me, no time to talk! What the hell is going on there? This is going to ruin our Christmas campaign! Find out who is behind this - I'm going to make those bastards sorry. Put a lid on this thing, this is an internal failure and when I get off this plane I want to know which heads will roll or it will be yours. GIVE ME BLOODY NAMES!</strong></span></p>
+
+<p><span style="color:#c0392b;"><strong>Control communication and watch who you are speaking with. There will be no more warnings!</strong></span></p>
+
+<p><span style="color:#c0392b;"><strong>And keep me informed on what it's doing to our numbers. SORT IT OUT NOW!"</strong></span></p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[136]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P12HR]]></title>
+    <question><![CDATA[<p>Discutez avec votre équipe. Que faut-il faire maintenant?</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p><span style="color:#c0392b;"><strong>Vous venez de recevoir un e-mail du directeur général, envoyé juste avant qu'il n'embarque dans un avion.</strong></span></p>
+
+<p><span style="color:#c0392b;"><strong>"J'ai des journalistes qui me traquent, pas le temps de parler! Qu'est-ce qui se passe? Cela va ruiner notre campagne de Noël! Découvrez qui est derrière tout ça - cela n'a que trop duré! Je veux tuer ce scandale. Il s’agit d’une défaillance interne et lorsque je descends de cet avion, je veux savoir quelles têtes doivent rouler ou ce sera la vôtre!</strong></span></p>
+
+<p><span style="color:#c0392b;"><strong>Contrôlez la communication et faites attention avec qui vous parlez. Il n'y aura plus d'avertissements!</strong></span></p>
+
+<p><span style="color:#c0392b;"><strong>Et tenez-moi au courant de l'impact sur nos chiffres. REGLEZ CA MAINTENANT! "</strong></span></p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[138]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P12COM]]></title>
+    <question><![CDATA[Discuss with your team. What should be done now?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[138]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P12COM]]></title>
+    <question><![CDATA[Discutez avec votre équipe. Que faut-il faire maintenant?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[140]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P12IT]]></title>
+    <question><![CDATA[Discuss with your team. What should be done now?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[140]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P12IT]]></title>
+    <question><![CDATA[Discutez avec votre équipe. Que faut-il faire maintenant?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[142]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[C]]></type>
+    <title><![CDATA[P13]]></title>
+    <question><![CDATA[<strong>Up to you... shall we?</strong>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[142]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[C]]></type>
+    <title><![CDATA[P13]]></title>
+    <question><![CDATA[<strong>A vous: qu'est ce qui devrait être fait?</strong>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[147]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[27]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P14]]></title>
+    <question><![CDATA[<p><strong>Presentation.</strong></p>
+
+<p>The Game Master has some things to tell you. When done, please validate the checkbox and click on next (only when told to do so).</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[147]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[27]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P14]]></title>
+    <question><![CDATA[<p><strong>Présentation.</strong></p>
+
+<p>Le maître de jeu a des choses à vous dire. Lorsqu'il aura terminé, merci de valider la case à cocher et cliquer sur suivant (uniquement lorsque cela vous est demandé)</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[149]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[28]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P15]]></title>
+    <question><![CDATA[<p><strong>Video Time.</strong></p>
+
+<p><strong>Ethical Hacking Group Statement Released!</strong></p>
+
+<p>The Game Master has a video for you. After having watched it, please validate the checkbox and click on next, only when told to do so.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Latest news. The Hackers identified as the Ethical Hacking Group have just released the following statement."</p>
+
+<p>"We are EHG, and here we go again ToyCo edition! Again and again the same things happen. You in your corporate tower ToyCo, you see OUR data as your oil. You pervs now even put cameras in the bedrooms of kids, pushing their souls online for your profits. AND YOU DON'T EVEN PROTECT IT!! Your lying CEO denies all and says we are making "FAKE NEWS". Here is some real news Mr. LYING CEO. Here are some pictures from your servers. Lets listen to this kid, should we?"</p>
+
+<p>"Video-sample toyco.io/?watch?v=z464K6xVdtM"</p>
+
+<p>"We told the world that You, ToyCo and your "Cyber Teddy" take kids intimate moments and leave them lying around on the interwebz for anyone to abuse. WE NOW HAVE TAKEN CONTROL OF THAT DATA, YOU HAVE BEEN PWNED. LOL. AND YOU SAY WE LIE. You do not deserve the data nor sympathy. EHG can haz all your Cyber Teddy stuff: data, video, pix, audio. We are Ethical but You were warned and denied all. Yes, dear viewer, dear ToyCo, we are EHG."</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[149]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[28]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P15]]></title>
+    <question><![CDATA[<p><strong>Temps vidéo.</strong></p>
+
+<p>Le maître de jeu a une vidéo pour vous. Après l'avoir regardé, veuillez valider la case à cocher et cliquer sur Suivant, mais uniquement lorsque cela vous est demandé.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Dernières nouvelles. Les Hackers identifiés comme étant le "Ethical Hacking Group" viennent de publier la déclaration suivante:"</p>
+
+<p>"Nous sommes EHG, et nous revoilà pour l'édition ToyCo! Encore et encore, les mêmes choses se passent. Dans votre tour d'ivoire, ToyCo, vous voyez NOS données comme votre capital. Vous êtes des pervers qui placez même des caméras dans les chambres de nos enfants, poussant leur âmes en ligne pour vos profits. ET VOUS NE LES PROTEGEZ PAS !! Votre PDG menteur nie en bloc et afirme que nous disons des "intox". Alors voici quelques vraies nouvelles, M. le PDG menteur. Voici quelques éléments de vos serveurs. Ecoutons ce gamin, OK? "</p>
+
+<p>"Exemple vidéo toyco.io/?watch?v=z464K6xVdtM"</p>
+
+<p>"Nous avons dit au monde que ToyCo et votre Cyber ​​Teddy prenaient les moments intimes de nos enfants et les laissaient traîner sur le réseau pour que quiconque puisse en abuser. NOUS AVONS MAINTENANT PRIS LE CONTRÔLE DE VOS DONNÉES, VOUS AVEZ ÉTÉ PIRATÉS. LOL. Vous ne méritez ni les données ni notre sympathie. EHG peut utiliser toutes vos éléments Cyber ​​Teddy: données, vidéo, images, audio. Nous sommes éthiques, mais vous avez été prévenus et avez tout nié. Oui, cher spectateur, cher ToyCo, nous sont EHG. "</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[151]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[29]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P16HR]]></title>
+    <question><![CDATA[Discuss with your team. What should be done now?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[151]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[29]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P16HR]]></title>
+    <question><![CDATA[Discutez avec votre équipe. Que faut-il faire maintenant?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[153]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[29]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P16COM]]></title>
+    <question><![CDATA[Discuss with your team. What should be done now?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[153]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[29]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P16COM]]></title>
+    <question><![CDATA[Discutez avec votre équipe. Que faut-il faire maintenant?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[155]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[29]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P16IT]]></title>
+    <question><![CDATA[Discuss with your team. What should be done now?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[155]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[29]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P16IT]]></title>
+    <question><![CDATA[Discutez avec votre équipe. Que faut-il faire maintenant?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[157]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[30]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P17]]></title>
+    <question><![CDATA[<p><strong>Video Time.</strong></p>
+
+<p>The Game Master has a video for you. After having watched it, please validate the checkbox and click on next only when told to do so.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Hacker group claims of a data breach at ToyCo, which the company CEO dismissed as "fake news", appear to have been correct. The so-called Ethical Hacking Group have released a video in the wake of the ToyCo statement, showing anonymised pictures of children said to be found in an insecure company server, along with files which an independent security researcher has verified. We contacted the Data Protection Agency for a statement and they said that they "are aware of the allegations of a data breach at ToyCo, are taking them seriously and are looking into the issue". The consumer watchdog has also said they are following the story, which could seriously affect ToyCo sales in the run up to the vital Christmas period."</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[157]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[30]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P17]]></title>
+    <question><![CDATA[<p><strong>Temps vidéo.</strong></p>
+
+<p>Le maître de jeu a une vidéo pour vous. Après l'avoir regardé, veuillez valider la case à cocher et cliquez sur Suivant uniquement lorsque cela vous est demandé.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Les allégations du groupe de Hacker concernant une violation de données chez ToyCo, que le PDG de la société a qualifiées de "fausses informations", semblent avoir été correctes. Dans la foulée de la déclaration de ToyCo, le "Ethical Hacking Group" a publié une vidéo montrant des images anonymisées d’enfants retrouvés sur un serveur de la société non sécurisé, ainsi que d'autres fichiers tous vérifiés par un chercheur en sécurité indépendant. Nous avons contacté l'Agence Nationale de Protection des Données pour une déclaration et ils ont dit qu'ils "sont au courant des allégations d'une violation de données à Toyco, les prennent au sérieux et se penchent sur la question ". L'organisme de protection des consommateurs a également indiqué qu'il suivrait l'histoire, ce qui pourrait sérieusement affecter les ventes de ToyCo à l'approche de la période cruciale de Noël."</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[159]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[31]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P18]]></title>
+    <question><![CDATA[<p><strong>Presentation.</strong></p>
+
+<p>The Game Master has some things to tell you. When done, please validate the checkbox and click on next (only when told to do so).</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[159]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[31]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P18]]></title>
+    <question><![CDATA[<p><strong>Présentation.</strong></p>
+
+<p>Le maître de jeu a des choses à vous dire. Lorsqu'il aura terminé, merci de valider la case à cocher et cliquer sur suivant (uniquement lorsque cela vous est demandé)</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[161]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[32]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P19HR]]></title>
+    <question><![CDATA[Discuss with your team. What should be done now?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[161]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[32]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P19HR]]></title>
+    <question><![CDATA[Discutez avec votre équipe. Que faut-il faire maintenant?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A3"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[163]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[32]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P19COM]]></title>
+    <question><![CDATA[Discuss with your team. What should be done now?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[163]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[32]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P19COM]]></title>
+    <question><![CDATA[Discutez avec votre équipe. Que faut-il faire maintenant?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[165]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[32]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P19IT]]></title>
+    <question><![CDATA[Discuss with your team. What should be done now?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[165]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[32]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P19IT]]></title>
+    <question><![CDATA[Discutez avec votre équipe. Que faut-il faire maintenant?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X6X28.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[167]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[33]]></gid>
+    <type><![CDATA[!]]></type>
+    <title><![CDATA[P20]]></title>
+    <question><![CDATA[Up to you... shall we?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[167]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[33]]></gid>
+    <type><![CDATA[!]]></type>
+    <title><![CDATA[P20]]></title>
+    <question><![CDATA[A vous de décider: Devriez-vous?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[172]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[34]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P21]]></title>
+    <question><![CDATA[<p><strong>Video Time.</strong></p>
+
+<p><strong>Purr-gatory</strong></p>
+
+<p>The Game Master has a video for you. After having watched it, please validate the checkbox and click on next only when told to do so.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"It's time to accept what has happened and try to move on. The story continues, but we shall not know if ToyCo will survive this crisis or not, or what could have been done... But maybe you have a clue?"</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[172]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[34]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P21]]></title>
+    <question><![CDATA[<p><strong>Temps vidéo. </strong></p>
+
+<p><strong>Le maître de jeu a une vidéo pour vous.</strong></p>
+
+<p>Après celle-ci, veuillez valider la case à cocher et cliquer sur suivant, mais uniquement lorsque cela vous est demandé.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>"Il est temps d'accepter ce qui s'est passé et d'essayer d'aller de l'avant. L'histoire continuera, mais nous ne saurons pas si ToyCo va survivre ou non à cette crise, ou ce qui aurait du être fait ... Mais peut-être avez-vous une idée?"</p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[174]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[34]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P22]]></title>
+    <question><![CDATA[<p><strong>Presentation.</strong></p>
+
+<p>The Game Master has some things to tell you. When done, please validate the checkbox and click on next (only when told to do so).</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X34X172SQ001.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[174]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[34]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[P22]]></title>
+    <question><![CDATA[<p><strong>Présentation.</strong></p>
+
+<p>Le maître de jeu a des choses à vous dire. Lorsqu'il aura terminé, merci de valider la case à cocher et cliquer sur suivant (uniquement lorsque cela vous est demandé)</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((917578X34X172SQ001.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[35]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[P04Eval]]></title>
+    <question><![CDATA[<strong>How did that hard working session go?</strong>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[176]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[35]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[P04Eval]]></title>
+    <question><![CDATA[<p><strong>Comment s'est passée cette dure séance de travail?</strong></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[87]]></qid>
+    <parent_qid><![CDATA[84]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Video is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[87]]></qid>
+    <parent_qid><![CDATA[84]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La vidéo est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[91]]></qid>
+    <parent_qid><![CDATA[90]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I am ready!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[91]]></qid>
+    <parent_qid><![CDATA[90]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Je suis prêt!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[107]]></qid>
+    <parent_qid><![CDATA[98]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Mail sent!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[107]]></qid>
+    <parent_qid><![CDATA[98]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Mail envoyé!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[112]]></qid>
+    <parent_qid><![CDATA[111]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Presentation is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[112]]></qid>
+    <parent_qid><![CDATA[111]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La présentation est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[115]]></qid>
+    <parent_qid><![CDATA[97]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Mail sent!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[115]]></qid>
+    <parent_qid><![CDATA[97]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Mail envoyé!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[116]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Mail sent!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[116]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Mail envoyé!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[122]]></qid>
+    <parent_qid><![CDATA[121]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Video is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[122]]></qid>
+    <parent_qid><![CDATA[121]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La vidéo est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[124]]></qid>
+    <parent_qid><![CDATA[123]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Video is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[124]]></qid>
+    <parent_qid><![CDATA[123]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La vidéo est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[126]]></qid>
+    <parent_qid><![CDATA[125]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Time is up!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[126]]></qid>
+    <parent_qid><![CDATA[125]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Le temps est terminé!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[129]]></qid>
+    <parent_qid><![CDATA[128]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Video is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[129]]></qid>
+    <parent_qid><![CDATA[128]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La vidéo est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[131]]></qid>
+    <parent_qid><![CDATA[130]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Time is up!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[131]]></qid>
+    <parent_qid><![CDATA[130]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Le temps est terminé!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[133]]></qid>
+    <parent_qid><![CDATA[132]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Time is up!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[133]]></qid>
+    <parent_qid><![CDATA[132]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Le temps est terminé!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[135]]></qid>
+    <parent_qid><![CDATA[134]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Presentation is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[135]]></qid>
+    <parent_qid><![CDATA[134]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La présentation est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[137]]></qid>
+    <parent_qid><![CDATA[136]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I took my decision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[137]]></qid>
+    <parent_qid><![CDATA[136]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[J'ai pris ma décision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[139]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I took my decision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[139]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[J'ai pris ma décision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[141]]></qid>
+    <parent_qid><![CDATA[140]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I took my decision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[141]]></qid>
+    <parent_qid><![CDATA[140]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[J'ai pris ma décision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[143]]></qid>
+    <parent_qid><![CDATA[142]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Call a CERT?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[143]]></qid>
+    <parent_qid><![CDATA[142]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Appeler un CERT?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[144]]></qid>
+    <parent_qid><![CDATA[142]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Call a Law firm?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[144]]></qid>
+    <parent_qid><![CDATA[142]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Appeler un cabinet d'avocats?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[145]]></qid>
+    <parent_qid><![CDATA[142]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Call the Police?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[145]]></qid>
+    <parent_qid><![CDATA[142]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Appeler la Police?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[146]]></qid>
+    <parent_qid><![CDATA[142]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Call the National Data Protection Agency?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[146]]></qid>
+    <parent_qid><![CDATA[142]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[26]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Appeler l'agence nationale de protection des données?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[148]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Presentation is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[148]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La présentation est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[150]]></qid>
+    <parent_qid><![CDATA[149]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Video is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[150]]></qid>
+    <parent_qid><![CDATA[149]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La vidéo est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[152]]></qid>
+    <parent_qid><![CDATA[151]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I took my decision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[152]]></qid>
+    <parent_qid><![CDATA[151]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[J'ai pris ma décision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[154]]></qid>
+    <parent_qid><![CDATA[153]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I took my decision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[154]]></qid>
+    <parent_qid><![CDATA[153]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[J'ai pris ma décision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[156]]></qid>
+    <parent_qid><![CDATA[155]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I took my decision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[156]]></qid>
+    <parent_qid><![CDATA[155]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[J'ai pris ma décision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[158]]></qid>
+    <parent_qid><![CDATA[157]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Video is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[158]]></qid>
+    <parent_qid><![CDATA[157]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La vidéo est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[160]]></qid>
+    <parent_qid><![CDATA[159]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Presentation is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[160]]></qid>
+    <parent_qid><![CDATA[159]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La présentation est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[162]]></qid>
+    <parent_qid><![CDATA[161]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I took my decision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[162]]></qid>
+    <parent_qid><![CDATA[161]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[J'ai pris ma décision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[164]]></qid>
+    <parent_qid><![CDATA[163]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I took my decision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[164]]></qid>
+    <parent_qid><![CDATA[163]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[J'ai pris ma décision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[166]]></qid>
+    <parent_qid><![CDATA[165]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[I took my decision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[166]]></qid>
+    <parent_qid><![CDATA[165]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[J'ai pris ma décision!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[173]]></qid>
+    <parent_qid><![CDATA[172]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Video is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[173]]></qid>
+    <parent_qid><![CDATA[172]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La vidéo est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[175]]></qid>
+    <parent_qid><![CDATA[174]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Presentation is finished!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[175]]></qid>
+    <parent_qid><![CDATA[174]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[La présentation est terminée!]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[177]]></qid>
+    <parent_qid><![CDATA[176]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[My happiness?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[177]]></qid>
+    <parent_qid><![CDATA[176]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Ma satisfaction?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[178]]></qid>
+    <parent_qid><![CDATA[176]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[My quality?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[178]]></qid>
+    <parent_qid><![CDATA[176]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Ma qualité de frappe?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[179]]></qid>
+    <parent_qid><![CDATA[176]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[My typing speed?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[179]]></qid>
+    <parent_qid><![CDATA[176]]></parent_qid>
+    <sid><![CDATA[917578]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Ma vitesse de frappe?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+  </rows>
+ </subquestions>
+ <question_attributes>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>attribute</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>language</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <attribute><![CDATA[time_limit_countdown_message]]></attribute>
+    <value><![CDATA[Time to start]]></value>
+    <language><![CDATA[en]]></language>
+   </row>
+  </rows>
+ </question_attributes>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>gsid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>showsurveypolicynotice</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[917578]]></sid>
+    <gsid><![CDATA[1]]></gsid>
+    <admin><![CDATA[Administrator]]></admin>
+    <adminemail><![CDATA[admin@secin.lu]]></adminemail>
+    <anonymized><![CDATA[N]]></anonymized>
+    <faxto/>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[Y]]></savetimings>
+    <template><![CDATA[vanilla]]></template>
+    <language><![CDATA[en]]></language>
+    <additional_languages><![CDATA[fr]]></additional_languages>
+    <datestamp><![CDATA[Y]]></datestamp>
+    <usecookie><![CDATA[N]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[Y]]></allowsave>
+    <autonumber_start><![CDATA[8]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[N]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[Y]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <showsurveypolicynotice><![CDATA[0]]></showsurveypolicynotice>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[N]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[admin@secin.lu]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[N]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[N]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[N]]></showwelcome>
+    <showprogress><![CDATA[N]]></showprogress>
+    <questionindex><![CDATA[0]]></questionindex>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_policy_notice</fieldname>
+   <fieldname>surveyls_policy_error</fieldname>
+   <fieldname>surveyls_policy_notice_label</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[917578]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[en]]></surveyls_language>
+    <surveyls_title><![CDATA[Room42 - Chapter 1 - ToyCo]]></surveyls_title>
+    <surveyls_description/>
+    <surveyls_welcometext/>
+    <surveyls_endtext/>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Invitation to participate in a survey]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+you have been invited to participate in a survey.<br />
+<br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+To participate, please click on the link below.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br />
+<br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}<br />
+<br />
+If you are blacklisted but want to participate in this survey and want to receive invitations please click the following link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Reminder to participate in a survey]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+Recently we invited you to participate in a survey.<br />
+<br />
+We note that you have not yet completed the survey, and wish to remind you that the survey is still available should you wish to take part.<br />
+<br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+To participate, please click on the link below.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br />
+<br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Survey registration confirmation]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+You, or someone using your email address, have registered to participate in an online survey titled {SURVEYNAME}.<br />
+<br />
+To complete this survey, click on the following URL:<br />
+<br />
+{SURVEYURL}<br />
+<br />
+If you have any questions about this survey, or if you did not register to participate and believe this email is in error, please contact {ADMINNAME} at {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Confirmation of your participation in our survey]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+this email is to confirm that you have completed the survey titled {SURVEYNAME} and your response has been saved. Thank you for participating.<br />
+<br />
+If you have any further questions about this email, please contact {ADMINNAME} on {ADMINEMAIL}.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Response submission for survey {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hello,<br />
+<br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br />
+<br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br />
+<br />
+View statistics by clicking here:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Response submission for survey {SURVEYNAME} with results]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hello,<br />
+<br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br />
+<br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br />
+<br />
+View statistics by clicking here:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+The following answers were given by the participant:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+   <row>
+    <surveyls_survey_id><![CDATA[917578]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[fr]]></surveyls_language>
+    <surveyls_title><![CDATA[Room42 - Chapitre 1 - ToyCo]]></surveyls_title>
+    <surveyls_email_invite_subj><![CDATA[Invitation à participer à un questionnaire]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Cher(e) {FIRSTNAME},<br />
+<br />
+Vous avez été invité(e) à participer à un questionnaire.<br />
+<br />
+Celui-ci est intitulé :<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+Pour participer, veuillez cliquer sur le lien ci-dessous.<br />
+<br />
+Cordialement,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Cliquez ici pour remplir ce questionnaire :<br />
+{SURVEYURL}<br />
+<br />
+Si vous ne souhaitez pas participer à ce questionnaire et ne souhaitez plus recevoir aucune invitation, veuillez cliquer sur le lien suivant :<br />
+{OPTOUTURL}<br />
+<br />
+Si vous êtes sur liste noire mais que vous voulez participer à ce questionnaire et recevoir les invitations, merci de cliquer sur le lien suivant :<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Rappel pour participer à un questionnaire]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Cher(e) {FIRSTNAME},<br />
+<br />
+Vous avez été invité(e) à participer à un questionnaire récemment.<br />
+<br />
+Nous avons pris en compte que vous n’avez pas encore complété le questionnaire, et nous vous rappelons que celui-ci est toujours disponible si vous souhaitez participer.<br />
+<br />
+Le questionnaire est intitulé :<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+Pour participer, veuillez cliquer sur le lien ci-dessous.<br />
+<br />
+Cordialement,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Cliquez ici pour faire le questionnaire :<br />
+{SURVEYURL}<br />
+<br />
+Si vous ne souhaitez pas participer à ce questionnaire et ne souhaitez plus recevoir aucune invitation, veuillez cliquer sur le lien suivant :<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Confirmation d’enregistrement pour le questionnaire]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Bonjour {FIRSTNAME},<br />
+<br />
+Vous (ou quelqu’un utilisant votre adresse électronique) vous êtes enregistré pour participer à un questionnaire en ligne intitulé {SURVEYNAME}.<br />
+<br />
+Pour compléter ce questionnaire, cliquez sur le lien suivant :<br />
+{SURVEYURL}<br />
+<br />
+Si vous avez des questions à propos de ce questionnaire, ou si vous ne vous êtes pas enregistré pour participer à celui-ci et croyez que ce message est une erreur, veuillez contacter {ADMINNAME} à l’adresse {ADMINEMAIL}]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Confirmation de votre participation à notre questionnaire]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Bonjour {FIRSTNAME},<br />
+<br />
+Ce message vous confirme que vous avez complété le questionnaire intitulé {SURVEYNAME} et que votre réponse a été enregistrée. Merci pour votre participation.<br />
+<br />
+Si vous avez des questions à propos de ce message, veuillez contacter {ADMINNAME} à l’adresse {ADMINEMAIL}.<br />
+<br />
+Cordialement,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[5]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Soumission de réponse pour le questionnaire {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Bonjour,<br />
+<br />
+Une nouvelle réponse a été soumise pour votre questionnaire '{SURVEYNAME}'.<br />
+<br />
+Cliquez sur le lien suivant pour voir la réponse :<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Cliquez sur le lien suivant pour éditer la réponse :<br />
+{EDITRESPONSEURL}<br />
+<br />
+Visualisez les statistiques en cliquant ici :<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Soumission de réponse pour le questionnaire {SURVEYNAME} avec résultats]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Bonjour,<br />
+<br />
+Une nouvelle réponse a été soumise pour votre questionnaire '{SURVEYNAME}'.<br />
+<br />
+Cliquez sur le lien suivant pour voir cette réponse :<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Cliquez sur le lien suivant pour éditer cette réponse individuelle :<br />
+{EDITRESPONSEURL}<br />
+<br />
+Visualisez les statistiques en cliquant ici :<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+Les réponses suivantes ont été données par le participant :<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+ <themes>
+  <theme>
+   <sid>917578</sid>
+   <template_name>vanilla</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+ </themes>
+ <themes_inherited>
+  <theme>
+   <sid>917578</sid>
+   <template_name>vanilla</template_name>
+   <config>
+    <options>
+     <ajaxmode>off</ajaxmode>
+     <brandlogo>off</brandlogo>
+     <container>on</container>
+     <font>noto</font>
+     <backgroundimage>off</backgroundimage>
+     <backgroundimagefile>./files/pattern.png</backgroundimagefile>
+     <animatebody>off</animatebody>
+     <bodyanimation>fadeInRight</bodyanimation>
+     <bodyanimationduration>500</bodyanimationduration>
+     <animatequestion>off</animatequestion>
+     <questionanimation>flipInX</questionanimation>
+     <questionanimationduration>500</questionanimationduration>
+     <animatealert>off</animatealert>
+     <alertanimation>shake</alertanimation>
+     <alertanimationduration>500</alertanimationduration>
+     <bodybackgroundcolor>#ffffff</bodybackgroundcolor>
+     <fontcolor>#444444</fontcolor>
+     <questionbackgroundcolor>#ffffff</questionbackgroundcolor>
+     <questionborder>on</questionborder>
+     <questioncontainershadow>on</questioncontainershadow>
+     <checkicon>f00c</checkicon>
+     <animatecheckbox>on</animatecheckbox>
+     <checkboxanimation>rubberBand</checkboxanimation>
+     <checkboxanimationduration>500</checkboxanimationduration>
+     <animateradio>on</animateradio>
+     <radioanimation>zoomIn</radioanimation>
+     <radioanimationduration>500</radioanimationduration>
+     <zebrastriping>off</zebrastriping>
+     <stickymatrixheaders>off</stickymatrixheaders>
+     <greyoutselected>off</greyoutselected>
+     <hideprivacyinfo>off</hideprivacyinfo>
+     <crosshover>off</crosshover>
+     <showpopups>1</showpopups>
+    </options>
+   </config>
+  </theme>
+ </themes_inherited>
+</document>
