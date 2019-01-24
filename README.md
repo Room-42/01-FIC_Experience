@@ -5,6 +5,6 @@ All files licensed under CC BY SA 4.0
 
 Scenario Basic workflow
 
-!(Concept.png)
+![Basic scenario workflow](Concept.png)
 
 ©2018, Matthieu Farcot, Michael Hellriegel & Chris Pinchen for the C3 c/o Securitymadein.lu
