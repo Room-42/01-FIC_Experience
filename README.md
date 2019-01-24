@@ -3,4 +3,8 @@ Room42 experience delivered by Securitymadein.lu at the "Forum International de 
 
 All files licensed under CC BY SA 4.0
 
+Scenario Basic workflow
+
+![Basic scenario workflow](Concept.png)
+
 ©2018, Matthieu Farcot, Michael Hellriegel & Chris Pinchen for the C3 c/o Securitymadein.lu
